@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnkgKBtuUR0908JkOJMNZqjiL7w3aw-Mnt1Q&usqp=CAU)]
+
 <h1 align="center">Hi 👋, I'm Mayur Yalij</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
