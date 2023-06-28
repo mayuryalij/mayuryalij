@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayur-yalij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-yalij" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayur-yalij" target="blank"><img align="center" src="https://th.bing.com/th?id=AMMS_edf03e8364b4553818bb79cf092d0468&w=102&h=102&c=7&o=6&oif=webp&pid=SANGAM" alt="mayur-yalij" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
