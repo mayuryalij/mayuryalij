@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mayur Yalij</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h4 align="center"> I'm a passionate full stack web developer based in India. I love building innovative and interactive web applications that solve real-world problems. With a strong foundation in both front-end and back-end development, I strive to create seamless user experiences and clean, efficient code.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuryalij&label=Profile%20views&color=0e75b6&style=flat" alt="mayuryalij" /> </p>
