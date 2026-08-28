@@ -62,25 +62,6 @@
   </a>
 </p>
 
-**SQL Skills:**
-`SELECT` • `WHERE` • `GROUP BY` • `ORDER BY` • `JOINs` • `Subqueries` • `CTEs` • `Window Functions` • `CASE` • `Aggregate Functions`
-
-### 📈 Excel
-
-**Excel Skills:**
-`VLOOKUP` • `XLOOKUP` • `INDEX-MATCH` • `IF` • `SUMIFS` • `COUNTIFS` • `Pivot Tables` • `Charts` • `Conditional Formatting` • `Data Cleaning`
-
-### 📊 Power BI
-
-**Power BI Skills:**
-`Data Cleaning` • `Power Query` • `Data Modeling` • `Relationships` • `DAX` • `Interactive Dashboards` • `KPIs` • `Slicers` • `Data Visualization`
-
-### 🐍 Python for Data Analysis
-
-**Python Skills:**
-`Pandas` • `NumPy` • `Matplotlib` • `Data Cleaning` • `Exploratory Data Analysis (EDA)` • `Data Visualization` • `Statistical Analysis`
-
----
 
 ## 📂 Featured Data Analytics Projects
 
