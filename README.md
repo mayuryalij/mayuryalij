@@ -156,16 +156,6 @@ Decision Making
 ## 📈 GitHub Statistics
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuryalij&show_icons=true&locale=en&layout=compact" alt="mayuryalij" />
-</p>
-
-<br><br><br>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=mayuryalij&show_icons=true&locale=en" alt="mayuryalij" />
-</p>
-
-<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayuryalij" alt="mayuryalij" />
 </p>
 
